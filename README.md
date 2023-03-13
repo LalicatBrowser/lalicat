@@ -49,5 +49,7 @@ Lalicat [antidetect browser](https://www.lalicat.com) supports HTTP/HTTPS/Socks4
 - [Proxy-Seller](https://www.lalicat.com/proxy-seller)
 - [NetNut Proxy](https://www.lalicat.com/netnut-proxy)
 
-
+## [Browser fingerprint disguise test](https://www.lalicat.com/fake-browser-fingerprint-test):
+- [whoer.net](https://www.lalicat.com/whoer-net-detection)
+- [iphey.com](https://www.lalicat.com/fake-browser-fingerprint-test)
 
