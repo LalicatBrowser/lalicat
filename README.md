@@ -49,7 +49,12 @@ Lalicat [antidetect browser](https://www.lalicat.com) supports HTTP/HTTPS/Socks4
 - [Proxy-Seller](https://www.lalicat.com/proxy-seller)
 - [NetNut Proxy](https://www.lalicat.com/netnut-proxy)
 
-## [Browser fingerprint disguise test](https://www.lalicat.com/fake-browser-fingerprint-test):
+## [Browser fingerprint disguise test](https://www.lalicat.com/fake-browser-fingerprint-test)##
 - [whoer.net](https://www.lalicat.com/whoer-net-detection)
 - [iphey.com](https://www.lalicat.com/fake-browser-fingerprint-test)
 
+## Summary ##
+If you want to hide real browser fingerprints, create and manage multiple accounts of the same platform, protect your privacy online, Lalicat browser can help you. Using Lalicat, you can create umlimited browsers with different hardware and software parameters, and connect different proxy IPs for every browser profile, like browsers from different locations and devices.
+> Now Lalicat offers new users a 3-day free trial, [contact us](https://www.lalicat.com/contact-us) for it!
+- Telegram: https://t.me/lalicatbrowser
+- Telegram channel:https://t.me/lalicatbrowserchannel
