@@ -26,13 +26,13 @@ https://docs.lalicat.com/web/#/5
 
 ## [Use Cases](https://www.lalicat.com/use-cases) ##
 ### [E-Commerce](https://www.lalicat.com/e-commerce) ###
-- [Amazon]()
+- [Amazon](https://www.lalicat.com/efficient-amazon-review-method-managing-multi-accounts)
 - [Shopee](https://www.lalicat.com/manage-multiple-shopee-seller-accounts)
 - [Wish](https://www.lalicat.com/prevent-wish-seller-multiple-accounts-being-associated)
 ### [Social Media Marketing](https://www.lalicat.com/social-media-marketing) ###
 - [Facebook](https://www.lalicat.com/create-multiple-facebook-accounts-without-phone-verification)
 - [Instagram](https://www.lalicat.com/how-to-create-multiple-instagram-accounts-and-manage-them)
-- [TikTok]（https://www.lalicat.com/create-and-manage-multiple-tiktok-accounts）
+- [TikTok]（https://www.lalicat.com/create-and-manage-multiple-tiktok-accounts)
 ### [Affiliate Marketing](https://www.lalicat.com/affiliate-marketing) ###
 ### [Ads Agency](https://www.lalicat.com/ads-agency) ###
 ### [Online Survey](https://www.lalicat.com/online-survey) ###
@@ -42,12 +42,12 @@ https://docs.lalicat.com/web/#/5
 
 ## [Proxy Integration](https://www.lalicat.com/proxy-setting) ##
 Lalicat [antidetect browser](https://www.lalicat.com) supports HTTP/HTTPS/Socks4/Socks5 proxy protocols, so Lalicat can integrate most proxy servers in the market.
-[911 Proxy](https://www.lalicat.com/911-socks5-proxy)
-[YiLu Proxy](https://www.lalicat.com/yilus5-proxy)
-[Oxylabs Proxy](https://www.lalicat.com/lalicat-browser-integrate-with-oxylabs-proxy)
-[Smartproxy](https://www.lalicat.com/how-to-use-smart-proxy-in-lalicat)
-[Proxy-Seller](https://www.lalicat.com/proxy-seller)
-[NetNut Proxy](https://www.lalicat.com/netnut-proxy)
+- [911 Proxy](https://www.lalicat.com/911-socks5-proxy)
+- [YiLu Proxy](https://www.lalicat.com/yilus5-proxy)
+- [Oxylabs Proxy](https://www.lalicat.com/lalicat-browser-integrate-with-oxylabs-proxy)
+- [Smartproxy](https://www.lalicat.com/how-to-use-smart-proxy-in-lalicat)
+- [Proxy-Seller](https://www.lalicat.com/proxy-seller)
+- [NetNut Proxy](https://www.lalicat.com/netnut-proxy)
 
 
 
