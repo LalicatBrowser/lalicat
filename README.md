@@ -32,7 +32,7 @@ https://docs.lalicat.com/web/#/5
 ### [Social Media Marketing](https://www.lalicat.com/social-media-marketing) ###
 - [Facebook](https://www.lalicat.com/create-multiple-facebook-accounts-without-phone-verification)
 - [Instagram](https://www.lalicat.com/how-to-create-multiple-instagram-accounts-and-manage-them)
-- [TikTok]（https://www.lalicat.com/create-and-manage-multiple-tiktok-accounts)
+- [TikTok](https://www.lalicat.com/create-and-manage-multiple-tiktok-accounts)
 ### [Affiliate Marketing](https://www.lalicat.com/affiliate-marketing) ###
 ### [Ads Agency](https://www.lalicat.com/ads-agency) ###
 ### [Online Survey](https://www.lalicat.com/online-survey) ###
