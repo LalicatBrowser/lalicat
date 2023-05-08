@@ -1,5 +1,5 @@
 # Lalicat Antidetect Browser - lalicat.com
-Lalicat antidetect browser for managing multple accounts
+Lalicat antidetect browser for managing multiple accounts
 ## Introduction ##
 > **[Lalicat](https://www.lalicat.com)** is an antidetect browser designed for managing multiple accounts by generating multiple virtual browsers with different browser fingerprints. Lalicat can simulate browsers of Windows, Linux, macOS, Android, and IOS operating systems.
 > 
